@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asp89, I work as a software engineer. 
-- 👀 I’m interested in learning ASP.NET CORE, React and React Native javascript.
-- 🌱 I’m currently learning ASP.NET CORE, React Javascript.
+- 👀 I’m interested in learning ASP.NET CORE, MongoDB, Express, React and React Native javascript.
+- 🌱 I’m currently learning React Javascript.
 - 💞️ I’m looking to collaborate to build different projects.
 - 📫 I am reachable at anjaney08@gmail.
 
