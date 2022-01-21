@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asp89, I'm software engineer. 
+- 👋 Hi, I’m Anjaneya. 
 - 👀 I’m interested in learning ASP.NET CORE, MongoDB, Express, React javascript.
 - 🌱 I’m currently learning Dotnet Core, React and Node Javascript.
 - 💞️ I’m looking to collaborate to build different projects.
