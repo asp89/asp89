@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Anjaneya. 
-- 👀 I’m interested in learning ASP.NET CORE, MongoDB, Express, React javascript.
-- 🌱 I’m currently learning Dotnet Core, React and Node Javascript.
-- 💞️ I’m looking to collaborate to build different projects.
-- 📫 I am reachable at anjaney0809@gmail.com
+- 🌱 I’m currently learning AWS, .NET Core, React and Node Javascript.
 
 <!---
 asp89/asp89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
